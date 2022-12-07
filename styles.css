@@ -1,0 +1,58 @@
+.index,
+.padthai,
+.meatballs,
+.goulash {
+  font-family: Helvetica, sans-serif;
+  background-color: rgb(255, 238, 208);
+  text-align: center;
+}
+
+.padthai {
+  background-color: rgb(255, 230, 221);
+}
+
+.meatballs {
+  background-color: rgb(240, 255, 215);
+}
+
+.goulash {
+  background-color: rgb(225, 243, 255);
+}
+
+h1 {
+  font-family: cursive;
+  text-decoration: underline;
+}
+
+img {
+  height: auto;
+  width: 20%;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: none;
+}
+
+li {
+  padding: 0.75em 0;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+a {
+  color: black;
+  font-weight: 600;
+}
+
+a:hover {
+  color: rgb(128, 128, 128);
+}
